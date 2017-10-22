@@ -1,5 +1,5 @@
 var data = [{
-    question:"output of 3 +'3'",
+    question:"3 +3",
     answer: "33"
 },{ question:"a = 1; b=2; c= a*b; output of print(c)?",
     answer: "2"
