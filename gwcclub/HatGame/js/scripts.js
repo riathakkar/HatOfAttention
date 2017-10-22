@@ -5,7 +5,7 @@ var data = [{
     answer: "2"
   },{ question:"x = 9 \n x = "10" \n print(x). Output?"
     answer: "10"
-  },{ question:"What is the type of "7""
+  },{ question:"What is the type of '7'?"
     answer: "string"
   },{ question:"What is true"
     answer: "a boolean expression"
